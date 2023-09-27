@@ -109,7 +109,7 @@ Tienes que consultar todos los `character`, `locations` y `episodes` de https://
 ### Deploy
 https://chipax-challenge-psi.vercel.app/
 
-###Dependencias Utilizadas: 
+### Dependencias Utilizadas: 
 
 * **React**
 * **JavaScript**
