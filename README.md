@@ -78,3 +78,47 @@ Tienes que consultar todos los `character`, `locations` y `episodes` de https://
 4. ***Orden**:* su `readme.md`, carpetas y archivos fáciles de digerir. La verdad que sí nos fijamos, porque cuando le pones cariño es diferente.
 5. ***Workflow***: **usamos git. queremos ver cómo usas git.
 6. ***Performance**:* Tu sistema **no debería tardar más de ~3 segundos** (dependiendo de la conexión a internet).
+
+
+#### Proyecto realizado con:
+* React
+* React Router
+* Tailwind CSS
+
+
+
+## Como ejecutar la aplicación:
+
+#### 1 - Clonar el repositorio
+
+    git clone https://github.com/FdR-23/Chipax-Challenge.git
+
+#### 2 - Instalar dependencias
+
+    $ cd Chipax-Challenge/
+      npm install
+
+#### 3 - Iniciar  
+
+      npm run dev
+
+####  Test  
+
+      npm test
+
+### Deploy
+https://chipax-challenge-psi.vercel.app/
+
+###Dependencias Utilizadas: 
+
+* **React**
+* **JavaScript**
+* **Tailwind CSS**
+
+
+
+
+## Author
+ **Federico Rampi** 
+*  <a href="https://portfolio-fdr.vercel.app/" target=”_blank”>Portfolio </a>
+*  <a href="https://www.linkedin.com/in/federico-rampi/" target=”_blank”>LinkedIn </a>
